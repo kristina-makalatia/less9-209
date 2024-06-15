@@ -1,0 +1,19 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+}
+.bg-image-fluid {
+    background-image: url('../image/Landscape-Color.jpg');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.hello-on-image {
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+    font-size: 35px;
+    color: #fff;
+}
